@@ -1,0 +1,6 @@
+{
+  "routing": {
+    "strategy": "reliable",
+    "keySelectionStrategy": "least-remaining"
+  }
+}
